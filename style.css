@@ -85,8 +85,11 @@ li,a{
 }
 #about{
    position: relative;
-   height: 140vh;
+   height: 130vh;
   
+}
+.main{
+  top: 30rem;
 }
 
 .sec{
@@ -787,7 +790,7 @@ p{
         position: absolute;
         width: 290px;
         height: 410px;
-         top: 385%;
+         top: 177rem;
         display:table-column ;
         left:10%;
     }
@@ -795,7 +798,7 @@ p{
         position: absolute;
         width: 290px;
         height: 410px;
-         top: 445%;
+         top: 206rem;
         display:table-column ;
         left:10%;
     
